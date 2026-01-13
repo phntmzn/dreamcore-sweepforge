@@ -1,0 +1,45 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+ENV/
+env/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# Audio renders / outputs
+output/
+PHNTMZN - DReAMCORE/
+*.wav
+*.aif
+*.aiff
+*.flac
+
+# Optional config secrets
+.env
