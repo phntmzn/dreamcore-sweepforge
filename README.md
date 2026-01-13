@@ -50,7 +50,7 @@ brew install libsndfile
 Run:
 
 ```bash
-python sss.py
+python sweepforge.py
 ```
 
 After it finishes, you’ll have your WAVs in:
